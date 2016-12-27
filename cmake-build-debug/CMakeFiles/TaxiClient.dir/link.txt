@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/TaxiClient.dir/main.cpp.o CMakeFiles/TaxiClient.dir/TaxiClient.cpp.o  -o TaxiClient 
